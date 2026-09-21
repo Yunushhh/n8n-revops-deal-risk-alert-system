@@ -70,7 +70,7 @@ I designed and implemented the prototype end to end, including:
 
 - defining the business problem and risk signals;
 - designing the scoring and alerting policy;
-- implementing the n8n workflow and JavaScript logic;
+- specified and implemented with AI assistance;
 - designing the PostgreSQL state model;
 - creating the Slack and Google Sheets outputs;
 - adding error-handling and cleanup safeguards; and
