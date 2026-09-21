@@ -1,0 +1,20 @@
+# Never commit the working copy of the workflow. It carries the real HubSpot
+# portal ID, Google spreadsheet IDs, Slack channel IDs and n8n credential
+# references. Only the placeholder-safe export belongs in this repository.
+*.working.json
+*working*.json
+
+# n8n local state and exports
+.n8n/
+*.env
+.env
+.env.*
+credentials*.json
+*credentials*.json
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

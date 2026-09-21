@@ -1,0 +1,22 @@
+NOTICE
+
+This repository is licensed under the MIT License. See LICENSE.
+
+The MIT grant covers the original content of this project: the n8n workflow
+configuration, the SQL schema and synthetic sample data, the pinned
+demonstration dataset, and the written documentation.
+
+It does not, and cannot, cover third-party material that appears incidentally:
+
+  * Screenshots in docs/screenshots/ contain the user interfaces of n8n,
+    Slack, Google Sheets and Supabase. Those interfaces remain the property of
+    their respective owners and are reproduced here only to document the
+    behaviour of this project.
+
+  * HubSpot, Slack, Google Sheets, PostgreSQL, Supabase, n8n, Gemini and
+    OpenRouter are trademarks or services of their respective owners. This
+    project is independent and is not affiliated with, sponsored by, or
+    endorsed by any of them.
+
+No real customer, company, contact or deal data appears anywhere in this
+repository. Every record is synthetic and every identifier is invented.

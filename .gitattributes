@@ -1,0 +1,6 @@
+# Normalise line endings so the repository is consistent across platforms.
+* text=auto eol=lf
+
+# Never let Git rewrite bytes inside binary assets.
+*.png binary
+*.jpg binary
